@@ -23,6 +23,29 @@ Outlines how users move between pages (menus, links, buttons). Clear, intuitive 
 Indicates where text, images, and forms will be located using placeholders. Strategic placement guides the user's eye and establishes visual hierarchy.
 *Example: A prominent call-to-action button placed "above the fold" for immediate visibility.*
 
-*84. Functionality**
+**4. Functionality**
 Shows interactive elements and their basic behavior (buttons, forms, search fields). It ensures all necessary interactive features are included and helps map out user flows.
 *Example: Input fields for an email and password, and a "Submit" button on a sign-up form.*
+
+
+# Types of Wireframes
+Wireframes vary in their level of detail and polish, broadly categorized into low-fidelity and high-fidelity.
+
+**Low-Fidelity Wireframes:** These are rough, conceptual sketches, often hand-drawn or quickly created with basic digital tools. They lack visual detail, focusing purely on the core layout and content organization using simple shapes and placeholders.
+
+*When Used: Primarily in the early stages of the design process, during brainstorming and initial concept exploration. They're excellent for quickly iterating on ideas, getting rapid feedback, and defining the fundamental structure without getting distracted by aesthetics.*
+
+**High-Fidelity Wireframes:** These are much more detailed and refined, approaching the look and feel of the final user interface. They often include more precise sizing, typography, actual content (or very realistic placeholders), and even some interactive elements to simulate user flows. While still not fully designed, they provide a much clearer visual representation.
+
+*When Used: Typically in later stages of the design process, after the core structure has been established with low-fidelity wireframes. They are used for detailed user testing, presenting a more concrete vision to stakeholders, and handing off a clearer blueprint to UI designers and developers.*
+
+**The Wireframe Is A High-Fidelity**
+Given the level of detail provided in the explanations for "Key Elements of a Wireframe, including specific examples of sizing, typography considerations ("prominent call-to-action"), and implied interactive behaviors ("Sign Up" form with input fields and a submit button), this README is describing or implying a high-fidelity wireframe. 
+
+
+
+
+
+
+
+
